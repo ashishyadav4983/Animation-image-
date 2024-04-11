@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+
+
+}
+
+
+body{
+ background-image: url("img\ .AVIF");
+ 
+background-size: cover;
+}
+
+#img1{
+   margin-left: 90%;
+
+
+}
